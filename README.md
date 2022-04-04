@@ -1,13 +1,11 @@
 # 👋 Intro
-Hello everyone, I’m Gustavo Rodríguez (@GusRodriguezM). A curious rookie web developer interested in creating amazin things with React and JavaScript. 
+Hello everyone, I’m Gustavo Rodríguez (@GusRodriguezM). A curious rookie web developer interested in creating amazing things with React and JavaScript. 
 Currently I'm looking for projects to put in practice what I learned.
 
+I’m interested in learning advanced topics of React as well as backend skills in NodeJS to develop professional applications.
 
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 
 # :computer: Technologies
 - JavaScript
